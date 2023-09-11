@@ -1,3 +1,5 @@
+
+# Seq2seq-Text-Generation
 # SCAN
 
 
@@ -82,4 +84,3 @@ python individual/individual.py \
        --iterations 8
 ```
 
-# Seq2seq-Text-Generation
