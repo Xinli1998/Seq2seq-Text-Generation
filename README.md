@@ -13,7 +13,7 @@ This is a re-implementation of the paper _Generalization without Systematicity: 
 Start by fetching the repository and checking out the submodule to get the dataset
 
 ```bash
-git clone git@github.com:vesteinn/SCAN.git
+git clone git@github.com:Xinli1998/SCAN.git
 cd SCAN
 git submodule update --init --recursive
 ```
